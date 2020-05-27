@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnupNunitMay20", "TurnupNunitMay20.csproj", "{A1276EFA-E4B4-4EAB-A3B9-DE0729E1F034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1276EFA-E4B4-4EAB-A3B9-DE0729E1F034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1276EFA-E4B4-4EAB-A3B9-DE0729E1F034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1276EFA-E4B4-4EAB-A3B9-DE0729E1F034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1276EFA-E4B4-4EAB-A3B9-DE0729E1F034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
